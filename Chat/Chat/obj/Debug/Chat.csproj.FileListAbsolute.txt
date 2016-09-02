@@ -1,0 +1,9 @@
+c:\users\ivanvillar\documents\visual studio 2015\Projects\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\Chat\obj\Debug\Chat.Form1.resources
