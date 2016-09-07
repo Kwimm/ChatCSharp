@@ -1,0 +1,268 @@
+Socket conectado a 127.0.0.1:98
+Enviados 34 bytes al cliente
+El servidor está esperando conexiones en el puerto 98
+prueba pas ha escrito: asdsad<EOF>
+El servidor está esperando conexiones en el puerto 77
+El servidor está esperando conexiones en el puerto 67
+Socket conectado a 127.0.0.1:67
+Enviados 34 bytes al cliente
+El servidor está esperando conexiones en el puerto 67
+prueba pas ha escrito: asdsad<EOF>
+El servidor está esperando conexiones en el puerto 56
+El servidor está esperando conexiones en el puerto 65
+Socket conectado a 127.0.0.1:56
+Enviados 37 bytes al cliente
+Prueba IDT 23 ha escrito: asdsad<EOF>
+El servidor está esperando conexiones en el puerto 56
+El servidor está esperando conexiones en el puerto 30001
+Error ConnectCallback: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:30000
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ConnectCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 87
+El servidor está esperando conexiones en el puerto 25654
+Error ConnectCallback: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:30000
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ConnectCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 87
+El servidor está esperando conexiones en el puerto 23433
+Error ConnectCallback: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:30000
+   en System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ConnectCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 87
+El servidor está esperando conexiones en el puerto 45
+El servidor está esperando conexiones en el puerto 54
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: Ola<EOF>
+Usuario Sorteos DO ha escrito: Ola<EOF>
+Socket conectado a 127.0.0.1:12
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: Ola<EOF>
+El servidor está esperando conexiones en el puerto 34
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: Ola<EOF>
+Usuario Sorteos DO ha escrito: Ola<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 232
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: asdsad<EOF>
+El servidor está esperando conexiones en el puerto 23
+Socket conectado a 127.0.0.1:12
+IDT ha escrito: 23232<EOF>
+El servidor está esperando conexiones en el puerto 676
+Socket conectado a 127.0.0.1:12
+facturae ha escrito: Asas<EOF>
+facturae ha escrito: Asas<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 45
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: asdsad<EOF>
+El servidor está esperando conexiones en el puerto 3434
+Socket conectado a 127.0.0.1:12
+Alberto Botana ha escrito: ASS<EOF>
+Alberto Botana ha escrito: ASS<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 55
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: fhf<EOF>
+Usuario Sorteos DO ha escrito: fhf<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+El servidor está esperando conexiones en el puerto 988
+Socket conectado a 127.0.0.1:12
+IDT ha escrito: ASDAS<EOF>
+IDT ha escrito: ASDAS<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+IDT ha escrito: ASDAS<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+El servidor está esperando conexiones en el puerto 23
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: assad<EOF>
+Adrian (PRUEBAS) ha escrito: assad<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 333
+Socket conectado a 127.0.0.1:12
+usuarioUSA ha escrito: asdasd<EOF>
+El servidor está esperando conexiones en el puerto 2322
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: adasd<EOF>
+Usuario Sorteos DO ha escrito: adasd<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+Usuario Sorteos DO ha escrito: adasd<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+Usuario Sorteos DO ha escrito: adasd<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+El servidor está esperando conexiones en el puerto 2343
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: asdasd<EOF>
+El servidor está esperando conexiones en el puerto 9877
+Socket conectado a 127.0.0.1:12
+Prueba del modulo de menus ha escrito: ytrtfa<EOF>
+El servidor está esperando conexiones en el puerto 123
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Asasdas<EOF>
+Adrian (PRUEBAS) ha escrito: Asasdas<EOF>
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Asasdas<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Asasdas<EOF>
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Socket conectado a 127.0.0.1:12
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Adrian (PRUEBAS) ha escrito: Esto por lo menos est? funcionando<EOF>
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Listo<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 127
+El servidor está esperando conexiones en el puerto 2323
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: Ola<EOF>
+Adrian (PRUEBAS) ha escrito: Ola<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 33
+Socket conectado a 127.0.0.1:12
+facturae ha escrito: <EOF>
+Socket conectado a 127.0.0.1:12
+facturae ha escrito: Primero<EOF>
+El servidor está esperando conexiones en el puerto 88
+Socket conectado a 127.0.0.1:12
+facturae ha escrito: Ola<EOF>
+El servidor está esperando conexiones en el puerto 22
+Socket conectado a 127.0.0.1:12
+Adrian (PRUEBAS) ha escrito: ll<EOF>
+El servidor está esperando conexiones en el puerto 434
+Socket conectado a 127.0.0.1:12
+Prueba del modulo de menus ha escrito: assasas<EOF>
+El servidor está esperando conexiones en el puerto 88
+Socket conectado a 127.0.0.1:12
+Prueba del modulo de menus ha escrito: iii<EOF>
+Prueba del modulo de menus ha escrito: iii<EOF>
+Socket conectado a 127.0.0.1:12
+El servidor está esperando conexiones en el puerto 4353
+Socket conectado a 127.0.0.1:12
+Pablo ha escrito: 3433<EOF>
+El servidor está esperando conexiones en el puerto 23
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: asdsad<EOF>
+Usuario Sorteos DO ha escrito: asdsad<EOF>
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: Aham<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+Error en sendcallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndSend(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndSend(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.SendCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 172
+Usuario Sorteos DO ha escrito: Aham<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+Socket conectado a 127.0.0.1:12
+Usuario Sorteos DO ha escrito: Aham<EOF>
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+Usuario Sorteos DO ha escrito: Aham<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+Error en sendcallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndSend(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndSend(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.SendCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 172
+El servidor está esperando conexiones en el puerto 34
+Socket conectado a 127.0.0.1:12
+usuarioUSA ha escrito: No funciona?<EOF>
+usuarioUSA ha escrito: No funciona?<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+usuarioUSA ha escrito: No funciona?<EOF>
+Socket conectado a 127.0.0.1:12
+Error en ReceiveCallback: System.ObjectDisposedException: No se puede obtener acceso al objeto desechado.
+Nombre del objeto: 'System.Net.Sockets.Socket'.
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult, SocketError& errorCode)
+   en System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   en WindowsFormsApplication1.clases.serverasincrono.ReceiveCallback(IAsyncResult ar) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\serverasincrono.cs:línea 126
+El servidor está esperando conexiones en el puerto 344
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Prueba esto<EOF>
+IDT 33 ha escrito: Prueba esto<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: A que si<EOF>
+Socket conectado a 127.0.0.1:12
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: A que si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Pues si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Pues si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Pues si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Pues si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: Pues si<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: 2 veces?<EOF>
+Socket conectado a 127.0.0.1:12
+IDT 33 ha escrito: 3 veces?<EOF>

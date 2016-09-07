@@ -1,0 +1,120 @@
+Sent 16 bytes to server...
+Sent 24 bytes to server...
+ERROR EN EL ENVÍO: 
+ERROR EN EL ENVÍO: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:12
+Conectado al servidor
+Enviados 14 bytes al servidor...
+Recibidos 14 bytes desde el servidor: Ola,usuarioUSA
+Conectado al servidor
+Enviados 33 bytes al servidor...
+Recibidos 33 bytes desde el servidor: facturae ha escrito: Ola,facturae
+Conectado al servidor
+Enviados 34 bytes al servidor...
+Recibidos 34 bytes desde el servidor: facturae ha escrito: asas,facturae
+Conectado al servidor
+Enviados 34 bytes al servidor...
+Recibidos 34 bytes desde el servidor: facturae ha escrito: asas,facturae
+Conectado al servidor
+Enviados 34 bytes al servidor...
+Recibidos 34 bytes desde el servidor: facturae ha escrito: asas,facturae
+Conectado al servidor
+Enviados 49 bytes al servidor...
+Recibidos 49 bytes desde el servidor: Adrian (PRUEBAS) ha escrito: OLa,Adrian (PRUEBAS)
+Conectado al servidor
+Enviados 34 bytes al servidor...
+Recibidos 34 bytes desde el servidor: facturae ha escrito: asas,facturae
+ERROR AL ABRIR RECEPCION: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:12
+   en System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 18
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:12
+   en System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 18
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+Conectado al servidor
+Enviados 41 bytes al servidor...
+Recibidos 41 bytes desde el servidor: usuarioUSA ha escrito: u9yuiyh,usuarioUSA
+ERROR AL ABRIR RECEPCION: System.ArgumentOutOfRangeException: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: size
+   en System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.ArgumentOutOfRangeException: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: size
+   en System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.ArgumentOutOfRangeException: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: size
+   en System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+ERROR AL ABRIR RECEPCION: System.ArgumentOutOfRangeException: El argumento especificado está fuera del intervalo de valores válidos.
+Nombre del parámetro: size
+   en System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   en WindowsFormsApplication1.clases.recepcion.getMessage() en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\clases\recepcion.cs:línea 29
+   en WindowsFormsApplication1.Form1.Form1_Load(Object sender, EventArgs e) en C:\Users\ivanvillar\Documents\Visual Studio 2015\Projects\Chat\WindowsFormsApplication1\Form1.cs:línea 87
+Recepción de mensajes activada
+Recepción de mensajes activada
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 43 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 25 bytes al servidor...
+Conectado al servidor
+Enviados 56 bytes al servidor...
+Recibidos 56 bytes desde el servidor: prueba pas ha escrito: Ola esto es un mensaje,prueba pas
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 71 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 46 bytes al servidor...
+Recepción de mensajes activada
+Recepción de mensajes activada
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 29 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 43 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 54 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 59 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 59 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 58 bytes al servidor...
+Recepción de mensajes activada
+Recepción de mensajes activada
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 55 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 41 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 40 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 55 bytes al servidor...
+Recepción de mensajes activada
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 43 bytes al servidor...
+Recepción de mensajes activada
+Conectado al servidor
+Enviados 55 bytes al servidor...

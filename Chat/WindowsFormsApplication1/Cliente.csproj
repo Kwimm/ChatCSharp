@@ -46,6 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clases\serverprincipal.cs" />
+    <Compile Include="clases\serverasincrono.cs" />
     <Compile Include="clases\envio.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -53,6 +55,9 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="includes\CBD.cs" />
+    <Compile Include="includes\ComprobacionMensaje.cs" />
+    <Compile Include="includes\CLog.cs" />
     <Compile Include="includes\ConfiguracionINI.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
